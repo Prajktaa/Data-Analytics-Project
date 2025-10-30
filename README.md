@@ -23,7 +23,8 @@ The project uses the following datasets:
 ---
 
 ## Tools and Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL(for data cleaning)
 - Power BI  (for visualization) 
 - Jupyter Notebook for analysis and reporting  
 
